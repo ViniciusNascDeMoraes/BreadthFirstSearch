@@ -36,7 +36,7 @@
             gabriela.Friends.Add(viktorija);
 
             // change here which Job you wanna search
-            var searchJob = Job.Architect;
+            var searchJob = Job.Artist;
 
             var peopleForSearch = new Queue<Person>(vinicius.Friends);
 
